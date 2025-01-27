@@ -29,3 +29,20 @@
 <h4 align="left">You can also reach me through my email: kirsten.20garcia@gmail.com</h4>
 
 ###
+
+
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Garcia-Kirsten.Garcia-Kirsten&left_color=aliceblue&right_color=antiquewhite&left_text=Profile%20Views:%20"  />
+
+###
+
+<br clear="both">
+
+<h3 align="left">An Industrial Engineering student from Technological institute of the Philippines</h3>
+
+###
+
+<p align="left">My hobbies:<br>- Reading Manhwa/Manga<br>- Watching Anime, K-drama, TV Shows, and vlogs<br>- Listening to music<br>- Singing</p>
+
+###
