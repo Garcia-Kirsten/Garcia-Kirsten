@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<h3 align="left">An Industrial Engineering student from Technological institute of the Philippines</h3>
+<h3 align="left">An Industrial Engineering student from the Technological Institute of the Philippines</h3>
 
 ###
 
