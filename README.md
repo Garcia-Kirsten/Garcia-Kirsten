@@ -25,3 +25,7 @@
 </div>
 
 ###
+
+<h4 align="left">You can also reach me through my email: kirsten.20garcia@gmail.com</h4>
+
+###
